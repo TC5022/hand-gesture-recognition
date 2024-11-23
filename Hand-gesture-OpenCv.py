@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 18 16:15:13 2020
-
-@author: sharad
-"""
 
 import numpy as np
 from keras.preprocessing import image
